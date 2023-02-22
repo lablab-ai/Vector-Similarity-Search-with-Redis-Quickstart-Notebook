@@ -1,6 +1,6 @@
 # Efficient Vector Similarity Search with Redis: A Step-by-Step Tutorial
 
-
+[Relevant Notebook](https://github.com/lablab-ai/Vector-Similarity-Search-with-Redis-Quickstart-Notebook/blob/main/SemanticSearchRedis.ipynb)
 
 ---
 
